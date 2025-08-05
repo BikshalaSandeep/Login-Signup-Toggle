@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BikshalaSandeep/Login-Signup-Toggle/static/css/main.6c552b06.css",
+    "main.js": "/BikshalaSandeep/Login-Signup-Toggle/static/js/main.34759c96.js",
+    "index.html": "/BikshalaSandeep/Login-Signup-Toggle/index.html",
+    "main.6c552b06.css.map": "/BikshalaSandeep/Login-Signup-Toggle/static/css/main.6c552b06.css.map",
+    "main.34759c96.js.map": "/BikshalaSandeep/Login-Signup-Toggle/static/js/main.34759c96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c552b06.css",
+    "static/js/main.34759c96.js"
+  ]
+}
